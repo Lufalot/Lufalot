@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lufalot
-- 👀 I’m interested in WebDeveloper & Java with Spring.
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning HTML, CSS & JS.
 - 💞️ I’m looking to collaborate on opensource projects.
 
