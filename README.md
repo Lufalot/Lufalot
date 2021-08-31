@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lufalot
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning HTML, CSS & JS.
+- 🌱 I’m currently learning HTML, CSS & JS. Enrolled in Full-Stack Engineer at Codecademy and DEVinHouse at Senai.
 - 💞️ I’m looking to collaborate on opensource projects.
 
 <!---
