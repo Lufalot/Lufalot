@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lufalot
-- 🌱 I’m currently learning JavaScript, React, HTML & CSS. Enrolled in Full-Stack Engineer at Codecademy and DEVinHouse at Senai.
+- 🌱 I’m currently learning Java, JavaScript, React, HTML & CSS. Studying Full-Stack Engineer at Codecademy and DEVinHouse at Senai.
 - 👀 I’m looking to collaborate to opensource projects.
 
 <!---
