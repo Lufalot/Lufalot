@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lufalot
-- 🌱 I work with Java, JavaScript, React, Angular, NodeJs.
+- 🌱 I work with Java, JavaScript, React, Angular, NodeJs. Those are my study projects.
 - 👀 I’m looking to collaborate to opensource projects.
 
 <!---
